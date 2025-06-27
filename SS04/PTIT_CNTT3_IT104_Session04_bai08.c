@@ -36,7 +36,7 @@ int main() {
     if (!found) {
         printf("Phan tu khong co trong mang\n");
     } else {
-        printf("\n"); 
+        printf("\n");
     }
 
     return 0;
