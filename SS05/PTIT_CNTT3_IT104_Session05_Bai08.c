@@ -43,7 +43,7 @@ int main() {
     if (input[0] == '-') {
         isNegative = 1;
         start = 1;
-        if (len == 1) { 
+        if (len == 1) {
             printf("Input khong hop le\n");
             return 0;
         }
