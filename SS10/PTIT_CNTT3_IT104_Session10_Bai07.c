@@ -64,9 +64,9 @@ int main() {
     append(&head, 7);
     append(&head, 3);
 
-    printList(head);     // Trước khi sắp xếp
+    printList(head);
     sortList(head);
-    printList(head);     // Sau khi sắp xếp
+    printList(head);
 
     freeList(head);
     return 0;
