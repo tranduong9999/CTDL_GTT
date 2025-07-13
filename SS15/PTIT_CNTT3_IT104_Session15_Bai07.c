@@ -3,7 +3,7 @@
 #include <string.h>
 
 struct Customer {
-    char name[31]; 
+    char name[31];
 };
 
 struct Queue {
